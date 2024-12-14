@@ -13,8 +13,8 @@ Ask me if you want to know something about me or collaborations.
 Thank you for visiting my GitHub account😊
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rockyueno0223&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" alt="Rocky’s GitHub stats" height="180px"　/>
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyueno0223&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rockyueno0223&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=midnight-purple" alt="Rocky’s GitHub stats" height="180px"　/>
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyueno0223&layout=compact&count_private=true&show_icons=true&theme=dark" />
 </div>
 
 <!--
