@@ -1,16 +1,14 @@
 ### About me
 
-I'm Rocky. Full name is Hiroki Ueno.
-I'm from Japan.
+Hi, I'm Rocky (Hiroki Ueno) from Japan 🇯🇵  
+Currently based in Vancouver, Canada 🇨🇦
 
-I was working as a software developer in Japan.
-Now I'm learning web developmemt at college in Vancouver to be a front-end developer here in Canada.
+I started my career as a software developer in Japan, and now I'm diving deep into web development — mainly with React, Next.js, and the MERN stack.
+I'm passionate about building things that are genuinely useful and love exploring what users truly need — not just what they say they want.
 
-I like traveling and I've been to 16 countries.
-Now I want to visit Mexico😆
+Outside of coding, I love traveling and have visited 16 countries so far 🌏 
 
-Ask me if you want to know something about me or collaborations.
-Thank you for visiting my GitHub account😊
+Thanks for visiting my GitHub. Feel free to reach out anytime!
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rockyueno0223&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=midnight-purple" alt="Rocky’s GitHub stats" height="180px"　/>
